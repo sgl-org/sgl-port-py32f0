@@ -1,0 +1,6 @@
+<Database>
+  <Device>
+    <ChipInfo Vendor="Puya" Name="PY32F030X8"  WorkRAMAddr="0x20000000" WorkRAMSize="0x2000" Core="JLINK_CORE_CORTEX_M0"/>
+    <FlashBankInfo Name="Flash_64K" BaseAddr="0x08000000" MaxSize="0x10000" Loader="PY32F030xx_64.FLM" LoaderType="FLASH_ALGO_TYPE_OPEN" AlwaysPresent="1"/>
+  </Device>
+</Database>
