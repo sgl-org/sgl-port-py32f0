@@ -81,7 +81,6 @@ set(PROJECT_FILES
     ${PY32_SGL_PATH}/draw/sgl_draw_rect.c
     ${PY32_SGL_PATH}/draw/sgl_draw_ring.c
     ${PY32_SGL_PATH}/draw/sgl_draw_text.c
-    ${PY32_SGL_PATH}/draw/sgl_draw.c
     ${PY32_SGL_PATH}/fonts/sgl_ascii_song23.c
     ${PY32_SGL_PATH}/mm/other/sgl_mm.c
     ${PY32_SGL_PATH}/widgets/arc/sgl_arc.c
