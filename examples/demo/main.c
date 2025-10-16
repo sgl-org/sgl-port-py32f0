@@ -345,8 +345,8 @@ main(void)
     sgl_obj_t *rect1 = sgl_rect_create(NULL);
     sgl_obj_set_pos(rect1, 0, 0);
     sgl_obj_set_size(rect1, 50, 50);
-    sgl_obj_set_color(rect1, SGL_GRAY);
-    sgl_obj_set_border_color(rect1, SGL_GREEN);
+    sgl_obj_set_color(rect1, SGL_COLOR_GRAY);
+    sgl_obj_set_border_color(rect1, SGL_COLOR_GREEN);
     sgl_obj_set_border_width(rect1, 3);
     sgl_obj_set_radius(rect1, 10);
     sgl_obj_set_alpha(rect1, 100);
@@ -354,8 +354,8 @@ main(void)
     sgl_obj_t *rect2 = sgl_rect_create(NULL);
     sgl_obj_set_pos(rect2, 0, 0);
     sgl_obj_set_size(rect2, 50, 50);
-    sgl_obj_set_color(rect2, SGL_BRIGHT_PURPLE);
-    sgl_obj_set_border_color(rect2, SGL_GREEN);
+    sgl_obj_set_color(rect2, SGL_COLOR_BRIGHT_PURPLE);
+    sgl_obj_set_border_color(rect2, SGL_COLOR_GREEN);
     sgl_obj_set_border_width(rect2, 3);
     sgl_obj_set_radius(rect2, 10);
     sgl_obj_set_alpha(rect2, 100);
